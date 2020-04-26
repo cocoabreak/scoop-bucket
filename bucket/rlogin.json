@@ -1,16 +1,16 @@
 {
     "homepage": "http://nanno.dip.jp/softlib/man/rlogin/",
     "description": "RLoginは、Windows上で動作するターミナルソフトです。",
-    "version": "2.25.0",
+    "version": "2.25.1",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "http://nanno.dip.jp/softlib/rlogin/2.25.0/rlogin_x64.zip",
-            "hash": "44b59d5082bc79c7fa37a60d0dbd4aa61b62e3cd5be7035838673fc9e99e1261"
+            "url": "http://nanno.dip.jp/softlib/rlogin/2.25.1/rlogin_x64.zip",
+            "hash": "f098c38495f6abed7c7f86ef91b443a475e1a493ddbc3f73af794cb73b7e4fab"
         },
         "32bit": {
-            "url": "http://nanno.dip.jp/softlib/rlogin/2.25.0/rlogin_x32.zip",
-            "hash": "0ea747a06e4621a9beb1e822f282df13500cf0fe8a76717547458e0043b95b7c"
+            "url": "http://nanno.dip.jp/softlib/rlogin/2.25.1/rlogin_x32.zip",
+            "hash": "c5ae89459a494f7983a56c9af8fb5e1f64f446e4e2cc6349075befaecd475e48"
         }
     },
     "bin": "RLogin.exe",
